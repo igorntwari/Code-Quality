@@ -37,4 +37,4 @@ function solution (roman) {
     return result;
   
   }
-  
+  console.log(solution('MIV'))
